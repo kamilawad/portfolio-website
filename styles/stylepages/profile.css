@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(25, 29, 43);
+}
+
+header{
+    text-align: center;
+}
+
+p{
+    margin: 50px;
+    font-size: large;
+    color: white;
+}
