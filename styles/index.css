@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+ 
+body{
+  background-color: rgb(25, 29, 43);
+}
+ 
+header{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  margin: 50px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.primary-section{
+  display: inline-block;
+}
+
+.image{
+  height: 300px;
+}
+
+.text{
+  margin-left: 100px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.link{
+  text-align: center;
+  border: 2px;
+  background-color: aquamarine;
+  margin-right: 50px;
+}
+
+.li{
+  margin: 10px;
+}
